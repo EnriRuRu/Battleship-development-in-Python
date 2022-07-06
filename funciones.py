@@ -2,6 +2,10 @@ import random
 import numpy as np
 
 def jugar(tablero_1, tablero_2):
+    
+    """"
+    Esta es la función de la dinámica del juego
+    """
 
     while tablero_1.quedan_barcos() and  tablero_2.quedan_barcos():
 
