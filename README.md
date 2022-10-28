@@ -1,5 +1,3 @@
-### Hi there 👋
+# Battleship
 
-- 🌱 I’m currently learning ...python
-- 🤔 I’m looking for help with ...many things
-- 💬 Ask me about ...what you need
+development of the popular Battleship game in Python
